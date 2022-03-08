@@ -1,7 +1,7 @@
 const nameGirl = 'Bạn';
 const giftUrl = 'https://www.facebook.com/vothanh1998114/';
 const eventName = 'Chúc Mừng 8-3';
-const titleCard = 'Tặng bạn';
+const titleCard = 'Tặng các bạn nữ';
 const contentCard = 'Chúc Mừng ngày 8.3!';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
